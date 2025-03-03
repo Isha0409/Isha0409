@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hey there, I’m **Isha Khokrale!**  
+### 🚀 Passionate Coder | Tech Explorer | Problem Solver  
+ 
+👀 I love **coding, exploring new technologies, and building impactful projects** that make a difference.  
+🌱 Currently diving deep into **JavaScript frameworks and backend development** to sharpen my skills.  
+💡 Always on the lookout for **collaborations** on open-source projects and **innovative web & mobile applications.**  
+ 
+---  
+ 
+## 🔗 **Let’s Connect!**  
+📧 **Email:** [ishakhokrale4@gmail.com](mailto:ishakhokrale4@gmail.com)  
+💼 **LinkedIn:** **
+ 
+---  
+ 
+## 💻 **Tech Stack**  
+🖥 **Languages:** Java, Python, JavaScript, PHP    
+📊 **Databases:** MySQL  
+🛠 **Tools:** Git, VS Code  
+ 
+---  
+ 
+## 🌟 **Projects**  
+🧠 **  ** –
 
-<!--
-**Isha0409/Isha0409** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧠 **  ** –
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 
+---  
+ 
+😄 **Fun Fact:** I’m always up for learning something new—even if it’s not solving Rubik’s cubes!  
+ 
+🚀 **Let’s build something amazing together!**
