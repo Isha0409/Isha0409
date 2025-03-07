@@ -8,8 +8,8 @@
 ---  
  
 ## 🔗 **Let’s Connect!**  
-📧 **Email:** [ishakhokrale4@gmail.com](mailto:ishakhokrale4@gmail.com)  
-💼 **LinkedIn:** **
+📧 **Email:** [ishakhokrale4@gmail.com](mailto:ishakhokrale4@gmail.com) ** 
+💼 **LinkedIn:**[https://www.linkedin.com/in/isha-khokrale-957071355/] **
  
 ---  
  
