@@ -14,16 +14,15 @@
 ---  
  
 ## 💻 **Tech Stack**  
-🖥 **Languages:** Java, Python, JavaScript, PHP    
+🖥 **Languages:** Java,Python,JavaScript,PHP,HTML,CSS,SQL    
 📊 **Databases:** MySQL  
-🛠 **Tools:** Git, VS Code  
+🛠 **Tools:** Git & GitHub,VS Code,Wordpress,Anaconda  
  
 ---  
  
 ## 🌟 **Projects**  
-🧠 **  ** –
-
-🧠 **  ** –
+🧠 **  ** – Online Assignment Submission System
+ 
 
 
  
